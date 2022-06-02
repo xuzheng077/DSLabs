@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project4Android</string>
+    <string name="input_label">Input an IP to look up: </string>
+    <string name="submit_button">Submit</string>
+    <string name="reset_button">Clear Result</string>
+    <string name="continent">Continent: </string>
+    <string name="country">Country: </string>
+    <string name="country_capital">Country Capital: </string>
+    <string name="country_flag">Country flag: </string>
+    <string name="state">State: </string>
+    <string name="city">City: </string>
+    <string name="district">District: </string>
+    <string name="zipcode">Zip Code: </string>
+    <string name="isp">ISP: </string>
+    <string name="organization">Organization: </string>
+    <string name="latitude">Latitude: </string>
+    <string name="longitude">Longitude: </string>
+    <string name="fail_to_retrieve">Failed to retrieve IP information.</string>
+    <string name="invalid_ip">Invalid input, please enter a valid IPv4 address.</string>
+
+</resources>
