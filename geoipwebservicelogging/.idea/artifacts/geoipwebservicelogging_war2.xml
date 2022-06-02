@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="geoipwebservicelogging:war2">
+    <output-path>$PROJECT_DIR$/out/artifacts/geoipwebservicelogging_war2</output-path>
+    <root id="archive" name="geoipwebservicelogging_war.war">
+      <element id="artifact" artifact-name="geoipwebservicelogging:war exploded" />
+    </root>
+  </artifact>
+</component>
